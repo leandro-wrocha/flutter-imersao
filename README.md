@@ -1,16 +1,39 @@
-# myapp
+# TechTaste
 
-A new Flutter project.
+**TechTaste** is a project developed during the Alura Immersion program.  
+This application was built using Flutter and Dart, based on a layout provided via Figma.
 
-## Getting Started
+🖼️ **Figma Layout:**  
+[TechTaste - Figma Design](https://www.figma.com/design/nCqR2ox9CZGyLfTZLxLFZe/TechTaste-%7C-Imers%C3%A3o--Copy-?node-id=7-47&t=8T9yRt6QKWrQYmT7-1)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🎨 Figma (UI/UX Design)
+- 💙 Flutter (Framework)
+- 🔷 Dart (Programming Language)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✅ To-Do
+
+- [x] Day 1 Immersion  
+- [x] Day 2 Immersion  
+- [x] Day 3 Immersion  
+- [ ] Remaining steps (Expected completion: **April 24, 2025**)
+
+---
+
+## 📅 Timeline
+
+The remaining stages of the immersion are expected to be completed within 15 days from today.  
+Stay tuned for updates!
+
+---
+
+## 📌 About the Project
+
+TechTaste is an educational mobile project focused on combining design and development using Flutter.  
+It follows the Alura Immersion challenge structure and aims to enhance both technical and design skills.
+
